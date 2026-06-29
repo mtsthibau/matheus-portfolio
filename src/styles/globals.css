@@ -1,6 +1,10 @@
 @import url('https://rsms.me/inter/inter.css');
 @import url('https://cdn.jsdelivr.net/npm/@fontsource/jetbrains-mono@5.0.0/variable/index.min.css');
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @layer base {
   :root {
     /* Colors */
