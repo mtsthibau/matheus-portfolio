@@ -15,7 +15,7 @@ GitHub Repository
         ↓
   GitHub Pages
         ↓
-  https://thibau.github.io
+  https://mtsthibau.github.io
 ```
 
 ## Technology Stack
@@ -90,7 +90,7 @@ git commit -m "Add new project"
 git push
 ```
 
-✅ Site updates in ~1 minute at `https://thibau.github.io`
+✅ Site updates in ~1 minute at `https://mtsthibau.github.io`
 
 ## Performance
 

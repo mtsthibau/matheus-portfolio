@@ -21,7 +21,7 @@ Every push to `main` triggers a build and deployment automatically.
         ↓
 6. Deploy to GitHub Pages
         ↓
-7. Live at https://thibau.github.io (~1 minute)
+7. Live at https://mtsthibau.github.io (~1 minute)
 ```
 
 ## Workflow File
@@ -39,7 +39,7 @@ Key steps:
 
 ### Prerequisites
 
-1. Repository name must be `thibau.github.io` (or your GitHub username)
+1. Repository name must be `mtsthibau.github.io` (or your GitHub username)
 2. Repository must be public (or have GitHub Pages enabled)
 3. GitHub Actions must be enabled (default)
 
@@ -67,7 +67,7 @@ git push origin main
 **Result:**
 - GitHub Actions automatically runs
 - Site rebuilds and redeploys
-- Available at `https://thibau.github.io` within ~1 minute
+- Available at `https://mtsthibau.github.io` within ~1 minute
 - Check Actions tab to monitor progress
 
 ## Environment Variables
@@ -139,4 +139,4 @@ To build different versions (staging vs. production):
 2. Use different `site` values in `astro.config.mjs` based on environment
 3. Deploy to different GitHub Pages branches
 
-For now, all deployments go to production (`main` → `https://thibau.github.io`).
+For now, all deployments go to production (`main` → `https://mtsthibau.github.io`).

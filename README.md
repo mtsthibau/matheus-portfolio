@@ -4,7 +4,7 @@
 
 A cinematic portfolio documenting the projects, communities and technologies I've helped build over 15 years of software engineering.
 
-🌐 **Live**: [https://thibau.github.io](https://thibau.github.io)
+🌐 **Live**: [https://mtsthibau.github.io](https://mtsthibau.github.io)
 
 ---
 
@@ -59,7 +59,7 @@ git commit -m "Add new project: HERMES"
 git push
 ```
 
-Site updates in ~1 minute at `https://thibau.github.io`.
+Site updates in ~1 minute at `https://mtsthibau.github.io`.
 
 ---
 
